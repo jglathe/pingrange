@@ -1,2 +1,2 @@
 # pingrange
-Ping a 8bit range of IP adresses to find out which answer
+Ping an 8bit range of IP adresses to find out which answer
